@@ -47,7 +47,7 @@ Please refer to the Python style guides if you get stuck:
 
 **Also, please recheck your blank lines to make the code more readable**.
 
-Although this algorithm is still short and maybe easier to read, but it becomes crucial once you have longer functions and nested functions. Generally, use them to group logical sections in the code (sparingly though), but definitely include:
+Although this algorithm is still short and maybe easier to read, blank lines becomes crucial once you have longer functions and nested functions. Generally, use them to group logical sections in the code (sparingly though), but definitely include:
 
 * Two blank lines surrounding top level classes and functions -  in your case two blank lines inserted after line 10
 * One blank line surround functions inside a class  - in your case on blank line inserted after line 1
