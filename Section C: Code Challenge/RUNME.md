@@ -91,29 +91,51 @@ To run Java, you need an [**IDE**], we reccommend **Eclipse**.
 
 ![](Eclipse-install-images/12.jpg)
 
-* Select small **"J"** icon to the right and close **welcome** tab.
+* If you are asked to enter **New module-info**, select **Don't Create**:
+
+![](Eclipse-install-images/14.jpg)
+
+* If you are asked to **Open Associated Perspective?** just click "No":
+
+![](Eclipse-install-images/15.jpg)
+
+* If you don't see the **Package Explorer** view, select the small **"J"** icon to the right and close **welcome** tab.
 * You should see the created folder in the **Package Explorer**.
-* Navigate to **"src"**:
+* Next, expand your new folder, and right-click on the **src** folder.
+* Then right-click on **New** and select **Package**:
 
-![](Eclipse-install-images/13.jpg)
+![](Eclipse-install-images/16.jpg)
 
-* Delete the src folder:
+* Name the package **numberSayer** - THIS IS VERY IMPORTANT:
 
-![]()
+![](Eclipse-install-images/17.jpg)
+
+* Now, go to where you saved the repo contents, navigate to the **numberSayer** folder, and copy all three **.java** files:
+
+![](Eclipse-install-images/18.jpg)
 	
-* Copy the entire numberSayer folder into the main project folder:
+* Paste them directly into the **numberSayer** package you created earlier. 
+* You should see red warning icons.
+* Open the **NumberSayerTest.java** class.
+* Then hover your mouse over the red line at **org.junit**:
 
-![]()
+![](Eclipse-install-images/19.jpg)
 
-* To run them, select **"Run"** tab and click **"Run"**:
+* You should see a popup **The import org.junit cannot be resolved**.
+* Click **Fix project setup**:
 
-![]()
+![](Eclipse-install-images/20.jpg)
 
-* You should now see the program running in the Eclipse Console:
+* Next add **Junit 5** to your project's build path:
 
-![]()
+![](Eclipse-install-images/21.jpg)
 
-* You can also run the test file by selecting it (NumberSayerTest.java) and selecting **Run**.
+* You should now see that the red warning icons have disappeared.
+* You can now run the code by opening the **Main.java** class and selecting the green play icon **Run**:
+
+![](Eclipse-install-images/22.jpg)
+
+* You can also run the test file by going back to the **NumberSayerTest.java** tab and selecting **Run**.
 
 And that's it! You're all set up!
 
