@@ -94,7 +94,7 @@ To run Java, you need an [**IDE**], we reccommend **Eclipse**.
 * Select small **"J"** icon to the right and close **welcome** tab.
 * You should see the created folder in the **Package Explorer**.
 * Navigate to **"src"**:
-* 
+
 ![](Eclipse-install-images/13.jpg)
 
 * Copy the **.jav** files from where you saved them into **"src"**:
