@@ -97,7 +97,7 @@ To run Java, you need an [**IDE**], we reccommend **Eclipse**.
 
 ![](Eclipse-install-images/13.jpg)
 
-* Copy the **.jav** files from where you saved them into **"src"**:
+* Copy the **.java** files from where you saved them into **"src"**:
 
 ![](Eclipse-install-images/14.jpg)
 	
