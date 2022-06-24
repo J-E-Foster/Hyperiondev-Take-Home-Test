@@ -9,5 +9,17 @@
 * For an in-depth explanation of the code, see [code itself](https://github.com/J-E-Foster/Hyperiondev-Take-Home-Test/blob/master/Section%20C:%20Code%20Challenge/src/numberSayer/NumberSayer.java).
 * For references, please see the [code itself](https://github.com/J-E-Foster/Hyperiondev-Take-Home-Test/blob/master/Section%20C:%20Code%20Challenge/src/numberSayer/NumberSayer.java).
 * For a Markdown report specifying and justifying the worst-case space complexity, see [this file](REPORT.md).
-* For installation of dependencies, please see the [this guide](ECLIPSEINSTALL.md).
 * For the original problem, visit [this page]().
+
+## To run or edit this program:
+
+* You need **Java** and an **IDE**
+* If you don't have Java, go [**here**](JAVAINSTALL.md#how-to-install-java).
+* If you don't have an IDE - we strongly reccommend Eclipe. Go [**here**](JAVAINSTALL.md#how-to-install-eclipse).
+* Else, navigate to this repositories main directory, and download the whole repository click **Code** and **Download ZIP**:
+
+![](Github-images/0.jpg).
+	
+* Unzip the folder in your preferred location.
+* Navigate to the 'Section C: Code Challenge' folder, and find the 'src' folder.
+* Then follow [**these**](JAVAINSTALL.md#how-to-run-a-program-via-eclipse) steps.
