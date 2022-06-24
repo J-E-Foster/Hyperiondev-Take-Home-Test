@@ -9,5 +9,5 @@
 * For an in-depth explanation of the code, see [code itself](https://github.com/J-E-Foster/Hyperiondev-Take-Home-Test/blob/master/Section%20C:%20Code%20Challenge/src/numberSayer/NumberSayer.java).
 * For references, please see the [code itself](https://github.com/J-E-Foster/Hyperiondev-Take-Home-Test/blob/master/Section%20C:%20Code%20Challenge/src/numberSayer/NumberSayer.java).
 * For a Markdown report specifying and justifying the worst-case space complexity, see [this file](REPORT.md).
-* For installation of dependencies, please see the [this guide]().
+* For installation of dependencies, please see the [this guide](ECLIPSEINSTALL.md).
 * For the original problem, visit [this page]().
