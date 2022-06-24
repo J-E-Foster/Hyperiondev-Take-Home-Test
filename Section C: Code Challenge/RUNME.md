@@ -81,7 +81,7 @@ To run Java, you need an [**IDE**], we reccommend **Eclipse**.
 
 ![](Eclipse-install-images/10.jpg)
 
-## How to run a program via Eclipse
+## How to run the program in Eclipse
 
 * Select **"File > New>Java Project"**:
 
