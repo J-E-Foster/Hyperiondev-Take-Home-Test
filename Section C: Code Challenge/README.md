@@ -14,8 +14,8 @@
 ### To run or edit this program:
 
 * You need **Java** and an **IDE**
-* If you don't have Java, go [**here**](JAVAINSTALL.md#how-to-install-java).
-* If you don't have an IDE - we strongly reccommend Eclipe. Go [**here**](JAVAINSTALL.md#how-to-install-eclipse).
+* If you don't have Java, go [**here**](RUNME.md#how-to-install-java).
+* If you don't have an IDE - we strongly reccommend Eclipe. Go [**here**](RUNME.md#how-to-install-eclipse).
 * Else, navigate to this repositories main directory, and download the whole repository: 
   * Click **Code** and then **Download ZIP**:
 
@@ -23,4 +23,4 @@
 	
 * Unzip the folder in your preferred location.
 * Navigate to the 'Section C: Code Challenge' folder, and find the 'src' folder.
-* Then follow [**these**](JAVAINSTALL.md#how-to-run-a-program-via-eclipse) steps.
+* Then follow [**these**](RUNME.md#how-to-run-a-program-via-eclipse) steps.
