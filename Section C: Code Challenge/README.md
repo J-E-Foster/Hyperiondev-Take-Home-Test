@@ -16,7 +16,8 @@
 * You need **Java** and an **IDE**
 * If you don't have Java, go [**here**](JAVAINSTALL.md#how-to-install-java).
 * If you don't have an IDE - we strongly reccommend Eclipe. Go [**here**](JAVAINSTALL.md#how-to-install-eclipse).
-* Else, navigate to this repositories main directory, and download the whole repository click **Code** and **Download ZIP**:
+* Else, navigate to this repositories main directory, and download the whole repository: 
+  * Click **Code** and then **Download ZIP**:
 
 ![](Github-images/0.jpg).
 	
