@@ -97,21 +97,23 @@ To run Java, you need an [**IDE**], we reccommend **Eclipse**.
 
 ![](Eclipse-install-images/13.jpg)
 
-* Copy the **.java** files from where you saved them into **"src"**:
+* Delete the src folder:
 
-![](Eclipse-install-images/14.jpg)
+![]()
 	
-* Double click on a file to open it in the compiler:
+* Copy the entire numberSayer folder into the main project folder:
 
-![](Eclipse-install-images/15.jpg)
+![]()
 
 * To run them, select **"Run"** tab and click **"Run"**:
 
-![](Eclipse-install-images/16.jpg)
+![]()
 
 * You should now see the program running in the Eclipse Console:
 
-![](Eclipse-install-images/17.jpg)
+![]()
+
+* You can also run the test file by selecting it (NumberSayerTest.java) and selecting **Run**.
 
 And that's it! You're all set up!
 
