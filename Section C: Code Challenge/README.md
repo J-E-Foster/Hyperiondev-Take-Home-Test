@@ -23,4 +23,4 @@
 	
 * Unzip the folder in your preferred location.
 * Navigate to the 'Section C: Code Challenge' folder, and find the 'src/numberSayer' folder.
-* Then follow [**these**](RUNME.md#how-to-run-a-program-via-eclipse) steps.
+* Then follow [**these**](RUNME.md#how-to-run-the-program-in-eclipse) steps.
