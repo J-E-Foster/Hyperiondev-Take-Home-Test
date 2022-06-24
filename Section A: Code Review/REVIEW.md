@@ -31,7 +31,7 @@ Well done on choosing one of the more optimal approaches for your solution by us
 
 ## Style: 3/5
 
-Although you have the correct idea with your indenting, you shoud **Please fix indentation in line 2 - your code won't execute until you fix this syntax error**. 
+Although you have the correct idea with your indenting, you shoud **please fix indentation in line 2 - your code won't execute until you fix this syntax error**. 
 The function definition should be the first indent from the class definition, and its contents should, in turn be indented from the definition.
 
 **Remember**:
