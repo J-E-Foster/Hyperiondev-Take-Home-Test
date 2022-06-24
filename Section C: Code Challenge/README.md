@@ -11,7 +11,7 @@
 * For a Markdown report specifying and justifying the worst-case space complexity, see [this file](REPORT.md).
 * For the original problem, visit [this page]().
 
-## To run or edit this program:
+### To run or edit this program:
 
 * You need **Java** and an **IDE**
 * If you don't have Java, go [**here**](JAVAINSTALL.md#how-to-install-java).
