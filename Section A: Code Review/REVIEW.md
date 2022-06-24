@@ -27,7 +27,7 @@ Please see [this link](https://stackoverflow.com/questions/40023013/tab-space-in
 
 ## Efficiency: 5/5
 
-Well done on choosing one of the more optimal approaches for your solution by using a dictionary and sorting the words to match the anagrams! This way you've avoided having to maintain duplicated in arrays.<br /><br /> 
+Well done on choosing one of the more optimal approaches for your solution by using a dictionary and sorting the words to match the anagrams! This way you've avoided having to maintain duplicates in arrays.<br /><br /> 
 
 ## Style: 3/5
 
